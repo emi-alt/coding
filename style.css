@@ -1,3 +1,15 @@
-p{
-    color: rgb(47, 47, 129);
+#p1{
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+#p3{
+    text-align: right;
+    text-decoration: line-through;
+}
+h1{
+    font-family: Barrio;
+    text-shadow: 3px 4px 5px rgb(192, 108, 192);
+}
+#d1{
+    box-shadow: 4px 2px 6px rgb(255, 192, 203);
 }
